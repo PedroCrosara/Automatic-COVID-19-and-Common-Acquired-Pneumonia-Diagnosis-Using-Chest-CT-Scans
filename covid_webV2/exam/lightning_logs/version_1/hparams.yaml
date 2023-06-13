@@ -1,0 +1,4 @@
+arch: FPN
+encoder_name: mobilenet_v2
+in_channels: 3
+out_classes: 1
